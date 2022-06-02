@@ -1,0 +1,1 @@
+//global comp export
